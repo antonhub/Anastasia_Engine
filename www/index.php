@@ -1,3 +1,3 @@
 <? 
-//qqqasda
+//qqqaseeda
 require './core/index.php';
