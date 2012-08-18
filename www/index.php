@@ -1,3 +1,3 @@
 <? 
 //qqq
-requi re './core/index.php';
+require './core/index.php';
